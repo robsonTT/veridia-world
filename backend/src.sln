@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeridiaAPI", "VeridiaAPI.csproj", "{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D0BF4B9C-7D6D-40C5-AD1D-22302E245072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8CEF79D-AC46-4785-A9C6-5D76BA9DA919} = {D0BF4B9C-7D6D-40C5-AD1D-22302E245072}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC54B385-6DEF-4BA4-96E9-2AA97F71007F}
+	EndGlobalSection
+EndGlobal
